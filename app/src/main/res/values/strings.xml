@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MultiQuiz Pro</string>
+    <string name="Question">Question</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="enrere">Previous</string>
+    <string name="results">results</string>
+    <string name="start_over">Start over</string>
+    <string name="mensaje">Correct: %1$d
+        Wrong: %2$d
+        Unanswered: %3$d
+
+    </string>
+
+
+    <integer name="correct_answers">0</integer>
+
+
+    <array name="all_questions">
+        <item>What is the largest country in the world?;*Russia;China;Canada;United States</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+        <item>Who was Pablo Escobar?;A hero;A police;Malpario;*Drug Lord</item>
+        <item>Complete the sentece: I\'m on the highway to__?;Sky;Heaven;*Hell;Ocean</item>
+    </array>
+</resources>

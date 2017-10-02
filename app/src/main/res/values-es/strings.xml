@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Question">Pregunta</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Finalizar</string>
+    <string name="enrere">Anterior</string>
+    <string name="results">Resultados</string>
+    <string name="start_over">Volver a comenzar</string>
+    <string name="mensaje">Correctas: %1$d
+        Incorrectas: %2$d
+        No contestadas: %3$d
+
+    </string>
+
+
+
+    <array name="all_questions">
+        <item>¿Cuál es el país más grande del mundo?;*Rusia;China;Canadá;Estados unidos</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+        <item>¿Quién fue Pablo escobar??;Un heroe;Un policía;Malpario;*Narcotraficante</item>
+        <item>Completa: I\'m on the highway to__?;Sky;Heaven;*Hell;Ocean</item>
+
+    </array>
+
+</resources>

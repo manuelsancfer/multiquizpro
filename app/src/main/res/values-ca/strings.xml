@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Question">Pregunta</string>
+    <string name="next">Següent</string>
+    <string name="finish">Finalitzar</string>
+    <string name="enrere">Enrere</string>
+    <string name="results">Resultats</string>
+    <string name="start_over">Tornar a començar</string>
+
+    <string name="mensaje">Correctes: %1$d
+        Incorrectes: %2$d
+        No contestades: %3$d
+
+    </string>
+
+    <array name="all_questions">
+        <item>Quin és el país més gran del món?;*Rússia;Xina;Canadà;Estats Units</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+        <item>Qui va ser Pablo Escobar?;Un heroi;Un policia;Malpario;*Narcotraficant</item>
+        <item>Completa: I\'m on the highway to__?;Sky;Heaven;*Hell;Ocean</item>
+    </array>
+</resources>
